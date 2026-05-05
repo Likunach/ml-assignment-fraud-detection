@@ -1,0 +1,14 @@
+# data files (too large for GitHub)
+Data/
+
+# virtual environment
+.venv/
+
+# VS Code
+.vscode/
+
+# secrets — never commit
+.env
+
+# downloaded model artifacts — not needed in repo
+model_cache/
